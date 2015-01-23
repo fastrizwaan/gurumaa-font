@@ -11,4 +11,4 @@ http://kde-look.org/content/show.php?content=16645
 re-licensed to OFL from GPL3+fonts exception:
 http://scripts.sil.org/OFL
 
-
+![](https://github.com/fastrizwaan/gurumaa-font/raw/master/Gurumaa-Font.png)
